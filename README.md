@@ -1,4 +1,4 @@
-# GetEmailsFromErrorsOutlook
+# Get An Email List from "email could not be sent" errors:
 this code will give you the list of emails from a series of error massages that are saying email could not be sent.
 
 How to use the mail extractor code:
