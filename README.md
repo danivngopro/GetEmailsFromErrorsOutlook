@@ -3,7 +3,9 @@ this code will give you the list of emails from a series of error massages that 
 
 How to use the mail extractor code:
 
-After you have copied the file to your desktop, create a folder named “emailstocheck”.
+first,copy the python script to your destop, open the code and edit the location of your desktop.
+
+then, create a folder named “emailstocheck”.
 Open the folder and paste all of the error massages you have.
 Close the folder.
 Press the windows button or click here:
